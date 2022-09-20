@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioxx&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Fabricioxx/Fabricioxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
