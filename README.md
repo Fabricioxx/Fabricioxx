@@ -61,13 +61,13 @@ Bem-vindo ao meu perfil no GitHub! Sou Fabricio, um desenvolvedor com habilidade
 - 📧 [Email](mailto:your.email@example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou ideia de colaboração!
 
 ---
 
-### Latest Projects
+### Ultimos Projetos 
 
-Here are some of my latest projects:
+Aqui estão alguns dos meus projetos mais recentes:
 
 - 🌟 [Project 1](https://github.com/Fabricioxx/project1)
 - 🌟 [Project 2](https://github.com/Fabricioxx/project2)
@@ -75,9 +75,7 @@ Here are some of my latest projects:
 
 ---
 
-### Get in Touch
-
-I'm always open to new opportunities and collaborations. Let's build something amazing together!
+#### Entrar em contato Estou sempre aberto a novas oportunidades e colaborações.
 
 
 
