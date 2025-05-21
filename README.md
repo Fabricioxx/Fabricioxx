@@ -35,7 +35,7 @@ Veja todos os meus projetos [aqui](https://github.com/search?q=user:Fabricioxx&s
 ### Contato
 
 - 📧 [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para ideias ou colaborações!
 
