@@ -1,82 +1,44 @@
-### Hi there 👋
+### Olá! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou Fabricio, um desenvolvedor com habilidades em tecnologias de desenvolvimento web e mobile.
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZhZTN4ZWdjY2RpNDJvMmo3dHRkcTI5N2xpdWQ4bzd2ajNobjVxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="180" alt="Personagem programando em pixel art"/>
 
-------------------------------------------------------------------
-
-### About Me
-
-- 🌐 **Web API Development:**
-  
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![ASP.Net](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-- 📱 **Mobile Development:**
- 
-  ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-  ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-
-- 💻 **Languages:**
-  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-- 🛠️ **Tools:**
-
-  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
- 
+Bem-vindo ao meu perfil no GitHub! Sou Fabricio, desenvolvedor focado em criar soluções práticas e inovadoras para web, mobile e automações.
 
 ---
 
-### GitHub Stats
+### Sobre Mim
 
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabricioxx&show_icons=true&theme=dark)
+- 🧑‍💻 **Desenvolvedor Full Stack**
+- 🚀 Interesse em automações, bots, APIs e aplicativos mobile
+- 🧩 Experiência em projetos pessoais, protótipos e MVPs
 
 ---
 
-### Contact
+### Principais Tecnologias
+
+- **Linguagens:** ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- **Frameworks/Stacks:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- **Outros:** ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### Projetos Recentes
+
+- 🐍 [bots-trader](https://github.com/Fabricioxx/bots-trader): Estratégias automáticas de trading em Python
+- 📈 [logica-codigos](https://github.com/Fabricioxx/logica-codigos): Algoritmos, lógica e programação em Python
+- 🍲 [MinhasReceitasApp](https://github.com/Fabricioxx/MinhasReceitasApp): Aplicativo Android para receitas
+
+Veja todos os meus projetos [aqui](https://github.com/search?q=user:Fabricioxx&sort=updated&type=Repositories).
+
+---
+
+### Contato
 
 - 📧 [Email](mailto:your.email@example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou ideia de colaboração!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para ideias ou colaborações!
 
 ---
 
-### Ultimos Projetos 
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- 🌟 [Project 1](https://github.com/Fabricioxx/project1)
-- 🌟 [Project 2](https://github.com/Fabricioxx/project2)
-- 🌟 [Project 3](https://github.com/Fabricioxx/project3)
-
----
-
-#### Entrar em contato Estou sempre aberto a novas oportunidades e colaborações.
-
-
-
-
+> *Sempre aberto a novos desafios e oportunidades. Vamos conversar!*
