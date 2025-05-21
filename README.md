@@ -34,8 +34,8 @@ Veja todos os meus projetos [aqui](https://github.com/search?q=user:Fabricioxx&s
 
 ### Contato
 
-- 📧 [Email](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/)
+- 📧 [Email](mailto:fabricio.franca@cs.up.edu.br)
+- 💼 [LinkedIn](https://www.linkedin.com/)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para ideias ou colaborações!
 
